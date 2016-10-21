@@ -11,7 +11,7 @@ const CurrentBook = (props) => {
       </div>
         <div className="row">
             <div className="col-xs-4 currentPhotoColumn">
-                <Link to="#"><img src={props.currentBook.image}className="img-responsive bookPhoto"/></Link>
+                <Link to="/books/" + ${this.props.route.data._id}><img src={props.currentBook.image}className="img-responsive bookPhoto"/></Link>
             </div>
             <div className="col-xs-8 currentInfoColumn">
                 <div className="row">

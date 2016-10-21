@@ -18,8 +18,8 @@ const Book = (props) => {
           <h4>About the Book</h4>
           <p>{props.book.description}</p>
           <br/>
-          <Link className="btn btn-default btn-info" to="#" role="button">Add to Queue</Link>
-          <Link className="btn btn-default btn-info" to="#" role="button">Add to Favorites</Link>
+          <Link className="btn btn-default btn-info" to="/books/" + ${this.props.route.data._id} role="button">Add to Queue</Link>
+          <Link className="btn btn-default btn-info" to="/books" + ${this.props.route.data._id} role="button">Add to Favorites</Link>
         </div>
       </div>
 

@@ -6,7 +6,7 @@ const ProfileQueue = (props) => {
 const profileQueue = props.bookQueue.slice(0, 6).map((book, idx) => {
     return (
       <div className="col-md-2 col-sm-2 col-xs-2 readingColumn">
-        <Link to="#"><img src={book.image} className='img-responsive bookPhoto'/></Link>
+        <Link to="/books/" + ${this.props.route.data._id}><img src={book.image} className='img-responsive bookPhoto'/></Link>
       </div>
     );
   });

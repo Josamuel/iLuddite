@@ -18,7 +18,7 @@ const Navbar = (props) => {
           />
         </div>
         <div className="col-md-2">
-          <Link to="/users/12345/edit">
+          <Link to="/users/" + {this.props.route.data.fbid} + "/edit">
             <span className="glyphicon glyphicon-cog"></span>
           </Link>
         </div>
