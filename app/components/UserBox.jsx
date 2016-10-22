@@ -33,7 +33,7 @@ const UserBox = (props) => {
 
 UserBox.defaultProps = {
   user: {
-    image: './assets/webpack.config.jpg',
+    image: './assets/User-Default.jpg',
     displayName: 'Ducky McDuckerson',
     location: 'Mars w/ Elon Musk',
     stats: 'ate 43 martians'

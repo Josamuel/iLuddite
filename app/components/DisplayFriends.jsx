@@ -32,22 +32,22 @@ const friendQueue = props.friendQueue.map((friend, idx) => {
 Friends.defaultProps = {
   friendQueue: [
     {
-      image: './assets/webpack.config.jpg'
+      image: './assets/User-Default.jpg'
     },
     {
-      image: './assets/webpack.config.jpg'
+      image: './assets/User-Default.jpg'
     },
     {
-      image: './assets/webpack.config.jpg'
+      image: './assets/User-Default.jpg'
     },
     {
-      image: './assets/webpack.config.jpg'
+      image: './assets/User-Default.jpg'
     },
     {
-      image: './assets/webpack.config.jpg'
+      image: './assets/User-Default.jpg'
     },
     {
-      image: './assets/webpack.config.jpg'
+      image: './assets/User-Default.jpg'
     }
   ]
 }

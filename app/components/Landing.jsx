@@ -11,13 +11,9 @@ class Landing extends React.Component {
     return (
     <div>
       <div className="main-body">
-
-      </div>
-
+    </div>
       <p className="title">iLuddite</p>
-
         <div className="intro col-md-4 col-md-offset-7 ">
-
           <div className ="well">
             <h2 className="header">Preface</h2>
             Welcome to ILuddite, a place for you and your reading habit.  
