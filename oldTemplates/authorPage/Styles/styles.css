@@ -1,0 +1,26 @@
+.authorPhotoColumn {
+  padding-top: 2em;
+}
+
+.authorPhoto {
+  border-radius: 50%;
+  border:.2em solid #e8e8e8;
+}
+
+.userInfoColumnn {
+  padding: 10em 0 8em .5em;
+}
+
+.authorBooks {
+  padding: 1em 0 1em 0em;
+}
+
+.authorTitleColumn {
+  padding: 0;
+  margin: 0;
+}
+
+.authorTitleColumn img {
+  width: 100%;
+  height: 250px;
+}

@@ -110,6 +110,43 @@ module.exports = {
     {
       image: '/assets/friend6.jpg'
     },
+  ],
+
+  author:{
+      image: '/assets/authorPage.jpg',
+      name: 'Robot Davenpoop',
+      description: 'Davenpoop is a totally rad dude who writes \
+      books that will break your heart. Lorem ipsum dolor sit amet,\
+       consectetur adipiscing elit. Morbi ut vehicula leo. Etiam eu \
+       volutpat nisl, in tincidunt purus. Integer eleifend auctor fringilla\
+       . Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean \
+       ac risus nec nisi ultrices luctus sed id nunc. Quisque ultrices tortor augue\
+       , sed fringilla orci dictum vel. Suspendisse aliquet ut lectus at sollicitudin.\
+        Duis vehicula scelerisque magna, nec porttitor velit accumsan eu.'
+  },
+
+    authorQueue: [ 
+    {
+      image: '/assets/book0.jpg'
+    },
+    {
+      image: '/assets/book1.jpg'
+    },
+    {
+      image: '/assets/book2.jpg'
+    },
+    {
+      image: '/assets/book3.jpg'
+    },
+    {
+      image: '/assets/book4.jpg'
+    },
+    {
+      image: '/assets/book5.jpg'
+    },
+    {
+      image: '/assets/book6.jpg'
+    },
   ]
 
 }
