@@ -6,7 +6,7 @@ const authorsSchema = new Schema({
   name: String,
   description: String,
   photoPath: String,
-  titlesBy: [{ type: Schema.Types.ObjectId, ref: 'Books' }]
+  titlesBy: [{ type: Schema.Types.String, ref: 'Books' }]
 });
 
 var Authors = mongoose.model('Authors', authorsSchema);
