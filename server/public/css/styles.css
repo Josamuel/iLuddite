@@ -48,16 +48,23 @@
 
 
 /* Navbar styling */
+nav.navbar.navbar-default{
+  background-color: aliceblue;
+}
+
 nav.navbar {
   height: 50px;
   min-height: 50px;
   padding-top: 1px;
-  background-color: #CCDFCB;
 }
 
 nav {
   text-align: center;
   padding: 0;
+}
+
+h2{
+  color: #36454f;
 }
 
 nav h2 {
