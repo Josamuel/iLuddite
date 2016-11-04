@@ -40,6 +40,6 @@ Google Books: https://developers.google.com/books/docs/v1/using
 Mongoose, React, Bootstrap, Web pack, and Passport.
 
 ##Contributors
-Front-End: Stephen Bolton and Joey Steinburger
+Front-End: Stephen Bolton and Joey Steinberger
 
 Back-End: Brittany Artimez, Michael Lefkowitz, and Rachel DePriest
